@@ -9,6 +9,12 @@ show-avatar: True
  <img style="float: center;" src="/assets/img/cordeliers.jpg" width="500" hspace="50" vspace="30">
 </p>
 
-Organisation:  Linus et Pierre
+Le but de ce séminaire de doctorants et jeunes chercheurs et de faire le 
+
+Organisation:  
+
+Linus Bleistein (Centre de Cordeliers et ...)
+
+Pierre Clavier (Centre des Cordeliers et Ecole Polytechnique, CMAP) 
 
 
