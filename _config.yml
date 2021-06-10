@@ -3,14 +3,12 @@
 
 
 # Name of website
-title: Pierre Clavier
-
+title: Séminaire des doctorants en Statistiques Médicales
 # Short description of your site
-description: Research Engineer at Sorbonne Universite
+description:
 
 # Your name to show in the footer
-author: Pierre Clavier
-
+author: Séminaire des doctorants en Statistiques Médicales
 # --- List of links in the navigation bar --- #
 
 navbar-links:
