@@ -8,5 +8,5 @@ Ceci est le site internet
 
 Orga; Linus et Pierre
 
-<img style="float: right;" src="/assets/img/cordeliers.jpg" width="300" hspace="30" vspace="30">
+<img style="float: center;" src="/assets/img/cordeliers.jpg" width="300" hspace="30" vspace="30">
 
