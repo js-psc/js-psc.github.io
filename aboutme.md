@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Pierre Clavier
+title: Séminaire des doctorants Statistiques Médicales
 subtitle: About me
-show-avatar: False
+show-avatar: True
 ---
 Ceci est le site internet
 
