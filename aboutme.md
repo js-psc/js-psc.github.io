@@ -6,5 +6,5 @@ show-avatar: True
 ---
 Ceci est le site internet
 
+<img style="float: right;" src="/assets/img/cordeliers.jpg" width="300" hspace="30" vspace="30">
 
-![Alt text](assets/img/cordeliers.jpg?raw=true "Title")
