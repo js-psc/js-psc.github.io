@@ -7,4 +7,4 @@ show-avatar: True
 Ceci est le site internet
 
 
-![Alt text](assetes/img/cordeliers.jpg?raw=true "Title")
+![Alt text](assets/img/cordeliers.jpg?raw=true "Title")
