@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Séminaire des doctorants Statistiques Médicales
-subtitle: Centre de Recherche des Cordeliers, Paris 6eme
+title:  
+subtitle: À propos
 show-avatar: True
 ---
 
