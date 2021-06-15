@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  
+title: Séminaire de statistiques médicales Charles Robin   
 subtitle: À propos
 show-avatar: True
 ---
