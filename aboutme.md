@@ -16,13 +16,13 @@ Le séminaire accueille tous les exposés traitant de statistiques et de machine
 
 **Organisation:**
 
-Pierre Clavier (Ecole Polytechnique, CMAP and Inria HeKA).  
+Pierre Clavier (Ecole Polytechnique, CMAP and Inria HeKA)  
 
-Linus Bleistein (Inria HeKA, CRC, Hôpital Européen Georges Pompidou).
+Linus Bleistein (Inria HeKA, CRC, Hôpital Européen Georges Pompidou)
 
 Fleur Gaudfernau (Inria HeKa and Université de Paris)
 
-Ivan Lerner (Inria SIERRA and Inria HeKA )
+Ivan Lerner (Inria SIERRA and Inria HeKA ).
 
 
 
