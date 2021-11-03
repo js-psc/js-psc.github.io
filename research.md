@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Talks
 show-avatar: True
 ---
 
