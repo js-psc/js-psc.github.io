@@ -9,6 +9,13 @@ show-avatar: True
  <img style="float: center;" src="/assets/img/cordeliers.jpg" width="500" hspace="50" vspace="30">
 </p>
 
+
+
+
+Prochaine session : 2 décembre 16h30, Jean Feydy (Chargé de Recherche Inria)  **Accurate Point Cloud Registration
+with Robust Optimal Transport**  [Link text Here](https://www.jeanfeydy.com/Papers/RobOT_NeurIPS_2021.pdf)
+
+
 Le IA & digital healthcare junior seminar est un séminaire mensuel de juniors (étudiant.e.s en thèse et post-doc) consacré aux statistiques appliquées à la médecine et à la santé. Organisé au Centre de Recherche des Cordeliers (CRC, Paris VIe) dans les locaux de 
 <a href="https://team.inria.fr/heka/fr/">l'équipe Inria HeKa</a>, il vise à promouvoir la recherche de jeunes chercheurs et chercheuses en leur permettant d'exposer leurs travaux en cours dans un cadre bienveillant.
 
