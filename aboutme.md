@@ -35,10 +35,10 @@ Some photos of the seminar !
 
 
 <p align="center">
- <img style="float: center;" src="/assets/img/cordeliers.jpg" width="500" hspace="50" vspace="30">
+ <img style="float: center;" src="/assets/img/photo_seminaire.jpg" width="500" hspace="50" vspace="30">
 </p>
 
 
 <p align="center">
- <img style="float: center;" src="/assets/img/cordeliers.jpg" width="500" hspace="50" vspace="30">
+ <img style="float: center;" src="/assets/img/seminaire2.jpg" width="500" hspace="50" vspace="30">
 </p>
