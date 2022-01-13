@@ -30,7 +30,7 @@ Ivan Lerner (Inria SIERRA and Inria HeKA ).
 
 
 
-Some photos of the seminar !
+Some photos of the seminar during Jean Feydy's presentation !
 
 
 
