@@ -30,4 +30,15 @@ Ivan Lerner (Inria SIERRA and Inria HeKA ).
 
 
 
+Some photos of the seminar !
 
+
+
+<p align="center">
+ <img style="float: center;" src="/assets/img/cordeliers.jpg" width="500" hspace="50" vspace="30">
+</p>
+
+
+<p align="center">
+ <img style="float: center;" src="/assets/img/cordeliers.jpg" width="500" hspace="50" vspace="30">
+</p>
