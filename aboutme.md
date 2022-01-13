@@ -10,7 +10,7 @@ show-avatar: True
 </p>
 
 
-Le [lien](https://u-paris.zoom.us/rec/share/VA5e9HtsSC4YFsi8y8cTs0ZJFXiHmqPQZBnid-MuBhUSfRVs8xsnr-8qEnuJ4l0.tWTLL9PrYfTn3WjD) pour le zoom metting ! 
+Le [lien](https://u-paris.zoom.us/rec/share/VA5e9HtsSC4YFsi8y8cTs0ZJFXiHmqPQZBnid-MuBhUSfRVs8xsnr-8qEnuJ4l0.tWTLL9PrYfTn3WjD) pour le zoom metting pour les conférences à 16h30! 
 
 
 Le IA & digital healthcare junior seminar est un séminaire mensuel de juniors (étudiant.e.s en thèse et post-doc) consacré aux statistiques appliquées à la médecine et à la santé. Organisé au Centre de Recherche des Cordeliers (CRC, Paris VIe) dans les locaux de 
