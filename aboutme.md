@@ -29,8 +29,7 @@ Fleur Gaudfernau (Inria HeKa and Université de Paris)
 Ivan Lerner (Inria SIERRA and Inria HeKA ).
 
 
-
-Some photos of the seminar during Jean Feydy's presentation !
+ **Some photos of the seminar during Jean Feydy's presentation !**
 
 
 
