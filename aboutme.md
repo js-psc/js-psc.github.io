@@ -20,9 +20,9 @@ Le séminaire accueille tous les exposés traitant de statistiques et de machine
 
 **Organisation:**
 
-Pierre Clavier (Ecole Polytechnique, CMAP and Inria HeKA)  
+Pierre Clavier[https://pierreclavier.github.io/aboutme/] (Ecole Polytechnique, CMAP and Inria HeKA)  
 
-Linus Bleistein (Inria HeKA, CRC, Hôpital Européen Georges Pompidou)
+Linus Bleistein[https://linusbleistein.github.io/] (Inria HeKA, CRC, Hôpital Européen Georges Pompidou)
 
 Fleur Gaudfernau (Inria HeKa and Université de Paris)
 
