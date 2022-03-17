@@ -6,7 +6,7 @@ show-avatar: True
 ---
 
 <p align="center">
- <img style="float: center;" src="/assets/img/cordeliers.jpg" width="500" hspace="50" vspace="30">
+ <img style="float: center;" src="/assets/img/PSC.jpg" width="500" hspace="50" vspace="30">
 </p>
 
 
