@@ -15,4 +15,6 @@ Doubly-robust, non-parametric estimation, data fusion.**
 
 - 3 février : [Simon Bussy](https://simonbussy.com/) : **Modèles joints pour l’analyse de survie.**
 
+- 17 mars : [Asma Nouria](https://asmanouira.github.io/)  **Multitask group Lasso for Genome Wide association Studies in diverse populations**
+
 
