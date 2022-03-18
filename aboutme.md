@@ -22,14 +22,14 @@ Le séminaire accueille tous les exposés traitant de statistiques et de machine
 
 [Pierre Clavier](https://pierreclavier.github.io/aboutme/) (Ecole Polytechnique, CMAP and Inria HeKA)  
 
-[Linus Bleistein](https://linusbleistein.github.io/) (Inria HeKA, CRC, Hôpital Européen Georges Pompidou)
+[Linus Bleistein](https://linusbleistein.github.io/) (Inria HeKA, Hôpital Européen Georges Pompidou)
 
 Fleur Gaudfernau (Inria HeKa and Université de Paris)
 
 Ivan Lerner (Inria SIERRA and Inria HeKA ).
 
 
- **Some photos of the seminar during Jean Feydy's presentation !**
+ **Some photos of the seminar during Jean Feydy's presentation at Centre des Cordeliers, Paris VI !**
 
 
 
