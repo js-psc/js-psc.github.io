@@ -17,4 +17,10 @@ Doubly-robust, non-parametric estimation, data fusion.**
 
 - 17 mars : [Asma Nouria](https://asmanouira.github.io/) (PhD student at Mines ParisTech, CBIO) : **Multitask group Lasso for Genome Wide association Studies in diverse populations**.
 
+- 21 avril : [Clément Mantoux](https://cmantoux.github.io/) (PhD student at Ecole Polytechnique, CMAP and Inria Aramis)  **Imagerie fonctionnelle cérébrale : de l'acquisition de données aux modèles de population.**
+
+- 19 mai : [Julia Linhart](https://www.linkedin.com/in/julia-linhart-70817315b/?originalSubdomain=fr) (PhD student at Inria Paretial, Saclay) **Neural Posterior Estimation of hierarchical models in neuroscience.**
+
+- 2 juin : [Marine le Morvan](https://marinelm.github.io/) (Chargé de recherche à Inria Soda) **Learning with missing values: theoretical insights and application to health databases.**
+
 
